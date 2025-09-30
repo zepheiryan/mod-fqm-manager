@@ -1,8 +1,8 @@
 {
   id: '84451307-215c-4021-a46d-b9dcfada7439',
   name: 'simple_resource',
-  description: '',
-  private: false,
+  description: 'Simple entity type for querying Linked Data resources',
+  private: true,
   requiredPermissions: [
     'linked-data.resources.rdf.get'
   ],
